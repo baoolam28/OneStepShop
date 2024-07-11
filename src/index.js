@@ -1,12 +1,13 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
-import ShopContent from './components/shop/shop.js';
-import Admin from './components/admin/admin.js';
-import AddProduct from './components/admin/addProduct.js';
-import EditProduct from './components/admin/editProduct.js';
-function App () {
+import ShopContent from "./components/shop/shop.js";
+import Admin from "./components/admin/admin.js";
+import AddProduct from "./components/admin/addProduct.js";
+import EditProduct from "./components/admin/editProduct.js";
+
+function App() {
   return (
     <>
       {/* <Navbar />
@@ -15,9 +16,9 @@ function App () {
   );
 }
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter>
+  <HashRouter>
     <App />
     <Routes>
       <Route path="/" element={<ShopContent />} />
@@ -25,6 +26,5 @@ root.render(
       <Route path="/admin/add-product" element={<AddProduct />} />
       <Route path="/admin/edit-product/:id" element={<EditProduct />} />
     </Routes>
-  </BrowserRouter>
+  </HashRouter>
 );
-
