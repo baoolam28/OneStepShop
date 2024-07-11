@@ -1,20 +1,25 @@
 {
   "files": {
     "main.css": "/OneStepShop/static/css/main.f3c93635.css",
-    "main.js": "/OneStepShop/static/js/main.493b5117.js",
+    "main.js": "/OneStepShop/static/js/main.4f2e1ecf.js",
     "static/media/ST001.png": "/OneStepShop/static/media/ST001.13031f17d02e44363720.png",
     "static/media/SH003.png": "/OneStepShop/static/media/SH003.cc124cb533dbeee64774.png",
     "static/media/JK002.png": "/OneStepShop/static/media/JK002.6ef144d96facb32d06af.png",
     "static/media/SH004.png": "/OneStepShop/static/media/SH004.0b1b4c1baa9c63924c0c.png",
+    "static/media/PS007.png": "/OneStepShop/static/media/PS007.356d520f4f96b104bd1e.png",
     "static/media/SH001.png": "/OneStepShop/static/media/SH001.231b81279619eb5ca786.png",
     "static/media/SH002.png": "/OneStepShop/static/media/SH002.1b44664e3651be03c84b.png",
     "static/media/ST002.png": "/OneStepShop/static/media/ST002.de7496cb1f817dd1412c.png",
+    "static/media/PS008.png": "/OneStepShop/static/media/PS008.26d38c3e5d9d68cd45e3.png",
     "static/media/JK003.png": "/OneStepShop/static/media/JK003.d0e61a829fd566116ac9.png",
     "static/media/ST005.png": "/OneStepShop/static/media/ST005.5c97b8fca6f922e6f2e3.png",
+    "static/media/PS005.png": "/OneStepShop/static/media/PS005.8532c63a2509c76d8673.png",
+    "static/media/PS006.png": "/OneStepShop/static/media/PS006.5a720c49dc9751723ea4.png",
     "static/media/logo_one_step.png": "/OneStepShop/static/media/logo_one_step.259eba0b9fd4932beca8.png",
     "static/media/PS003.png": "/OneStepShop/static/media/PS003.f7f174ee50fb4922df35.png",
     "static/media/ST006.png": "/OneStepShop/static/media/ST006.dac60806658783fb04ad.png",
     "static/media/ST007.png": "/OneStepShop/static/media/ST007.9fed3a1fa30cfe885c08.png",
+    "static/media/PS004.png": "/OneStepShop/static/media/PS004.bf23bd6c9ea7be365789.png",
     "static/media/ST004.png": "/OneStepShop/static/media/ST004.0a764134191cfa1733cb.png",
     "static/media/PS002.png": "/OneStepShop/static/media/PS002.7be2af4ff5d2074b5d3e.png",
     "static/media/PS001.png": "/OneStepShop/static/media/PS001.55290e4cf15e3f62d97d.png",
@@ -23,10 +28,10 @@
     "static/media/ST003.png": "/OneStepShop/static/media/ST003.b507706bde2bdf49746b.png",
     "index.html": "/OneStepShop/index.html",
     "main.f3c93635.css.map": "/OneStepShop/static/css/main.f3c93635.css.map",
-    "main.493b5117.js.map": "/OneStepShop/static/js/main.493b5117.js.map"
+    "main.4f2e1ecf.js.map": "/OneStepShop/static/js/main.4f2e1ecf.js.map"
   },
   "entrypoints": [
     "static/css/main.f3c93635.css",
-    "static/js/main.493b5117.js"
+    "static/js/main.4f2e1ecf.js"
   ]
 }
