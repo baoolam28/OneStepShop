@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OneStepShop/static/css/main.f3c93635.css",
-    "main.js": "/OneStepShop/static/js/main.3a243399.js",
+    "main.js": "/OneStepShop/static/js/main.b0db3880.js",
     "static/media/ST001.png": "/OneStepShop/static/media/ST001.13031f17d02e44363720.png",
     "static/media/SH003.png": "/OneStepShop/static/media/SH003.cc124cb533dbeee64774.png",
     "static/media/JK002.png": "/OneStepShop/static/media/JK002.6ef144d96facb32d06af.png",
@@ -19,8 +19,11 @@
     "static/media/PS003.png": "/OneStepShop/static/media/PS003.f7f174ee50fb4922df35.png",
     "static/media/ST006.png": "/OneStepShop/static/media/ST006.dac60806658783fb04ad.png",
     "static/media/ST007.png": "/OneStepShop/static/media/ST007.9fed3a1fa30cfe885c08.png",
+    "static/media/PS009.png": "/OneStepShop/static/media/PS009.3876b30e5f82036a8d2a.png",
+    "static/media/ST008.png": "/OneStepShop/static/media/ST008.d53d3b2d74a1dbcfba20.png",
     "static/media/PS004.png": "/OneStepShop/static/media/PS004.bf23bd6c9ea7be365789.png",
     "static/media/ST004.png": "/OneStepShop/static/media/ST004.0a764134191cfa1733cb.png",
+    "static/media/SH006.png": "/OneStepShop/static/media/SH006.e8c1e9156b36db61364d.png",
     "static/media/PS002.png": "/OneStepShop/static/media/PS002.7be2af4ff5d2074b5d3e.png",
     "static/media/PS001.png": "/OneStepShop/static/media/PS001.55290e4cf15e3f62d97d.png",
     "static/media/SH005.png": "/OneStepShop/static/media/SH005.1b43b21362e9ed7dfc6d.png",
@@ -28,10 +31,10 @@
     "static/media/ST003.png": "/OneStepShop/static/media/ST003.b507706bde2bdf49746b.png",
     "index.html": "/OneStepShop/index.html",
     "main.f3c93635.css.map": "/OneStepShop/static/css/main.f3c93635.css.map",
-    "main.3a243399.js.map": "/OneStepShop/static/js/main.3a243399.js.map"
+    "main.b0db3880.js.map": "/OneStepShop/static/js/main.b0db3880.js.map"
   },
   "entrypoints": [
     "static/css/main.f3c93635.css",
-    "static/js/main.3a243399.js"
+    "static/js/main.b0db3880.js"
   ]
 }
