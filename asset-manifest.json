@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OneStepShop/static/css/main.f3c93635.css",
-    "main.js": "/OneStepShop/static/js/main.4f2e1ecf.js",
+    "main.js": "/OneStepShop/static/js/main.3a243399.js",
     "static/media/ST001.png": "/OneStepShop/static/media/ST001.13031f17d02e44363720.png",
     "static/media/SH003.png": "/OneStepShop/static/media/SH003.cc124cb533dbeee64774.png",
     "static/media/JK002.png": "/OneStepShop/static/media/JK002.6ef144d96facb32d06af.png",
@@ -28,10 +28,10 @@
     "static/media/ST003.png": "/OneStepShop/static/media/ST003.b507706bde2bdf49746b.png",
     "index.html": "/OneStepShop/index.html",
     "main.f3c93635.css.map": "/OneStepShop/static/css/main.f3c93635.css.map",
-    "main.4f2e1ecf.js.map": "/OneStepShop/static/js/main.4f2e1ecf.js.map"
+    "main.3a243399.js.map": "/OneStepShop/static/js/main.3a243399.js.map"
   },
   "entrypoints": [
     "static/css/main.f3c93635.css",
-    "static/js/main.4f2e1ecf.js"
+    "static/js/main.3a243399.js"
   ]
 }
